@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enrique</h1>
-<h3 align="center">A passionate Full-Stack Developer from Namibia</h3>
+<h3 align="center">A passionate Full-Stack Developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rique2x&label=Profile%20views&color=0e75b6&style=flat" alt="rique2x" /> </p>
 
